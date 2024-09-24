@@ -14,8 +14,8 @@ This repository includes all the necessary code to train, evaluate, and test a d
 
 ## How to Train the Jupyter Notebook in Google Colab?
 
-**Requires a gmail account**:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/paul-hernandez-herrera/image_classification_pytorch/blob/main/jupyter_notebook/Train_Image_Classification_Model.ipynb](https://colab.research.google.com/github/jonagm/Skin-Cancer-Diagnosis-with-CNN/blob/Updates/1_CNNThesisTraining.ipynb))
+**Requires a gmail account**:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonagm/Skin-Cancer-Diagnosis-with-CNN/blob/Updates/1_CNNThesisTraining.ipynb)
 
 ## How to Predict the Jupyter Notebook in Google Colab?
 
-**Requires a gmail account**:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/paul-hernandez-herrera/image_classification_pytorch/blob/main/jupyter_notebook/Predict_Class_using_Trained_Model.ipynb](https://colab.research.google.com/github/jonagm/Skin-Cancer-Diagnosis-with-CNN/blob/Updates/2_CNNThesisTest.ipynb))
+**Requires a gmail account**:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonagm/Skin-Cancer-Diagnosis-with-CNN/blob/Updates/2_CNNThesisTest.ipynb))
